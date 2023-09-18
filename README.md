@@ -2,7 +2,6 @@
 
 Welcome to the Pizza Ordering Website project! This web application allows customers to order pizzas online and provides admin users with CRUD (Create, Read, Update, Delete) operations for managing employees and pizza menu items.
 
-![Pizza Ordering Website Screenshot](screenshot.png)
 
 ## Features
 
